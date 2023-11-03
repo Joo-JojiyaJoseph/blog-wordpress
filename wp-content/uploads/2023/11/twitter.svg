@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_1" data-name="Layer 1" viewBox="0 0 36 36">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #000253;
+      }
+    </style>
+  </defs>
+  <g>
+    <circle id="Ellipse_467" data-name="Ellipse 467" class="cls-1" cx="18" cy="18" r="17.81481"></circle>
+    <g id="layer1">
+      <path id="path1009" class="cls-2" d="M7.55516,8.17619,15.66,19.013,7.5041,27.82381H9.33974l7.14048-7.71395,5.76921,7.714H28.4959l-8.56077-11.4464,7.59152-8.20122H25.691l-6.57615,7.10437L13.80152,8.17619Zm2.69945,1.35215h2.8696l12.672,16.94332H22.92663Z"></path>
+    </g>
+  </g>
+</svg>
